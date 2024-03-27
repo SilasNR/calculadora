@@ -9,6 +9,8 @@ module.exports = {
         return x * y
     },
 
-    
+    divisao: function(x, y) {
+        return x / y
+    }
 
 }
